@@ -6,5 +6,5 @@
 
 ### Some of the HTML Interfaces are provided below :
 
-  ![Home Page](images/HomePage.png)
+  ![Home Page](images/HomePage.PNG)
   ![Map With Marker](images/MapwithMarker.png)
